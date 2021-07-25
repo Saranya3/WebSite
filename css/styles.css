@@ -1,0 +1,52 @@
+/* Header */
+.header{
+    background-color: darkblue;
+}
+.header-h1{
+    font-family: 'Montserrat-black', sans-serif;
+    color:white;
+    font-size: 3rem;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+.title-img{
+    margin-left: 5rem;
+    width: 60%;
+    right: 7%;
+}
+.bg-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    width: 50%;
+    padding-top: 3%;
+}
+
+.h1-txt{
+    font-family: 'Montserrat-black', sans-serif;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.p-txt{
+    font-family: 'Montserrat-black', sans-serif;
+    text-align: center;
+}
+
+.last-para{
+    padding-bottom: 3%;
+}
+
+/* Footer */
+#footer{
+    background-color: darkblue;
+    text-align: center;
+    padding: 7% 15%; 
+    color: white;
+ }
+ .foot{
+    color: white;
+    padding: 0 1.5%;
+ }
